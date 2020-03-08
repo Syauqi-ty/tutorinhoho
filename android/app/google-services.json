@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "541570293315",
+    "firebase_url": "https://tutorin-aja-b9d91.firebaseio.com",
+    "project_id": "tutorin-aja-b9d91",
+    "storage_bucket": "tutorin-aja-b9d91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541570293315:android:40c9d49981a2ef7c8a7ef6",
+        "android_client_info": {
+          "package_name": "com.example.tutorinhoho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541570293315-0qligldilluup8u2j6clh17plpb50qfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tutorinhoho",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "541570293315-hkql4tsakdigudk6dr56hdnomknls67p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgYLXTBHBugqLcclQ75JzJDQzsBgL45jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541570293315-hkql4tsakdigudk6dr56hdnomknls67p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
